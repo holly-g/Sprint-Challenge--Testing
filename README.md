@@ -28,7 +28,7 @@
 ## Project Description
 
 * You're going to be writing the documentation and the tests for a CRUD API.
-* The API itself is really simple. You're task is to peek at the endpoints found in the `server.js` file and write docs for each one, then write the tests for the end points.
+* The API itself is really simple. Your task is to peek at the endpoints found in the `server.js` file and write docs for each one, then write the tests for the end points.
 
 ## DOCUMENTATION GOES HERE
 
